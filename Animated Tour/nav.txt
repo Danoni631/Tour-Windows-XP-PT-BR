@@ -1,0 +1,14 @@
+&h_Segment1a=Iniciar aqui
+&h_Segment1b=Iniciar aqui
+&h_Segment1=Computação pessoal segura e fácil
+&h_Segment2=Descubra o mundo da mídia digital
+&h_Segment3=Conexão em casa e no escritório
+&h_Segment4=Melhor para negócios
+&t_close=Sair do tour
+&t_musicOff=Música Off
+&t_musicOn=Música ON
+&t_restartTour=Reniciar Tour
+&skipIntro=Skip Intro
+&t_attractLoopMain=Pra começar, clique em um dos botões
+
+

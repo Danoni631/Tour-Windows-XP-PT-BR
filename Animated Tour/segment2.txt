@@ -1,0 +1,15 @@
+&h_Segment1=Computação pessoal segura e fácil
+&h_Segment2=Descubra o mundo da mídia digital
+&h_Segment3=Conexão em casa e no escritório
+&h_Segment4=Melhor para os negócios
+&t_articleMusic=Leia 'Music magic' sobre música
+&t_articlePicture=Leia 'Put yourself in the Picture!' sobre fotografia
+&ss_text1=Organização e compartilhamento de fotos
+&ss_text2=Tocar vídeos, músicas e CDs
+&ss_text3=Otimizado pra jogar
+&h_games=Otimizado pra jogar
+&h_photoSharing=Organização e compartilhamento de fotos
+&h_playingMusic=Tocar vídeos, músicas e CDs
+&t_clickToReplay=Clique pra reproduzir denovo
+&t_attractLoop=Pra continuar, clique em um ícone
+&t_articleRef=Pra mais informações: <BR>Clique em 'Iniciar', clique em 'Ajuda e suporte', e digite 'walkthroughs' na caixa de busca.

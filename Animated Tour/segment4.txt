@@ -1,0 +1,13 @@
+&h_Segment1=Computação pessoal segura e fácil
+&h_Segment2=Descubra o mundo da mídia digital
+&h_Segment3=Conexão em casa e no escritório
+&h_Segment4=Melhor para os negócios
+&ss_text1=Robusto, confiável, compatíve
+&ss_text2=Em trânsito e em todo o mundo
+&ss_text3=Mais seguro e fácil de gerenciar
+&h_dependability=Robusto, confiável, compatível
+&h_mobile=Em trânsito e em todo o mundo
+&h_secure=Mais seguro e fácil de gerenciar
+&t_clickToReplay=Clique pra reproduzir denovo
+&t_attractLoop=Pra continuar, clique em um ícone
+&t_articleRef=Pra mais informações: <BR>Clique em 'Iniciar', clique em 'Ajuda e suporte', e digite 'walkthroughs' na caixa de busca.

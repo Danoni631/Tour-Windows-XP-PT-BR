@@ -1,0 +1,16 @@
+&h_Segment1=Computação pessoal segura e fácil
+&h_Segment2=Descubra o mundo da mídia digital
+&h_Segment3=Conexão em casa e no escritório
+&h_Segment4=Melhor para os negócios
+&t_helpSupport=Ajuda e suporte
+&t_helpUpdate=Mais sobre o Windows Update 
+&t_windowsBasics=Ajuda sobre o básico do Windows
+&ss_text1=Mais rápido, inteligente e seguro
+&ss_text2=Mais fácil de aprender e usar
+&ss_text3=Melhor ajuda nas tarefas
+&h_games=Melhor ajuda nas tarefas
+&h_photoSharing=Mais rápido, inteligente e seguro
+&h_playingMusic=Mais fácil de aprender e usar
+&t_clickToReplay=Clique pra reproduzir denovo
+&t_attractLoop=Pra continuar, clique em um ícone
+&t_articleRef=Pra mais informações: <BR>Clique em 'Iniciar', clique em 'Ajuda e suporte', e digite 'walkthroughs' na caixa de busca.
